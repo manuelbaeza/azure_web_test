@@ -1,0 +1,7 @@
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\WebAppTest.exe
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\WebAppTest.dll
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\WebAppTest.deps.json
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\WebAppTest.runtimeconfig.json
+C:\Manuel\Desarrollos\Azure_Test\Web\WebAppTest\WebAppTest\obj\Release\net8.0\PubTmp\Out\WebAppTest.pdb
